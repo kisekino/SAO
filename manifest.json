@@ -1,0 +1,38 @@
+{
+  "name": "adysetyo.com",
+  "short_name": "adysetyo &#8226; sekedar meluangkan waktu",
+  "start_url": "https://www.adysetyo.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#b2ffff",
+  "description": "Tempatnya Berbagi Seputar Teknologi",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-csIDbkwUW-g/XFw0Msqd8pI/AAAAAAAACJ8/3pWtmTlZByodlzqm1NCs2h3gSRA3Z88ggCLcBGAs/s1600/48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-zPQ3A8dbTaw/XFw0NanqhZI/AAAAAAAACKE/pqjTU-bd6ycRxdY-OknKAIKE0CzY_A1mQCLcBGAs/s1600/72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-usoG-3Zjjic/XFw0NuWtHHI/AAAAAAAACKI/2UDXYeDWcgggn9mtKen49H4YaiQUh4TQQCLcBGAs/s1600/96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-InYfD8t5pec/XFw0LBvlhUI/AAAAAAAACJs/zfpVNmkvessvg-xobhMTNOt6QYJvp6oGQCLcBGAs/s1600/144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-e1FW1EYlbKw/XFw0La0cvdI/AAAAAAAACJw/SZAm8rXdYGcx2UPa2Z2ca2fDouVKxnguwCLcBGAs/s1600/168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-FpsRIs4V9pg/XFw0MPaY0FI/AAAAAAAACJ0/AJ1Ma9PdtT8UqV4AG2Zht3w1Xtr2K1M0QCLcBGAs/s1600/192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-4XiQTrN4MoI/XFw0NHhNdlI/AAAAAAAACKA/Z2-AvUo22wQ3FnmL_sBOTgkJ4S8SQsqfACLcBGAs/s320/512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
